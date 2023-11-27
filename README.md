@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-- <b>Networking)</b>
+- <b>Networking</b>
   - [Network](https://github.com/EVR01/networking)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
