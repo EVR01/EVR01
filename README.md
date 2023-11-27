@@ -11,11 +11,12 @@
 
 <h3> Firewall:</h3>
 
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Fortigate</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
- 
-- <b>Python</b>
+- <b>Cisco ASA</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
